@@ -1,36 +1,17 @@
-[
-  {
-    "id": "1",
-    "name": "Payok.io",
-    "url": "https://payok.io/",
-    "img": "https://via.placeholder.com/150/92c952"
-  },
+{
+  "payok": [
+    {
+      "id": 1,
+      "description": "Комиссия - от 2%",
+      "url": "https://source.unsplash.com/random/512x512?sig=1"
+    }
+  ],
 
-  {
-    "id": "1",
-    "name": "Payok.io",
-    "url": "https://payok.io/",
-    "img": "https://via.placeholder.com/150/92c952"
-  },
-
-  {
-    "id": "1",
-    "name": "Payok.io",
-    "url": "https://payok.io/",
-    "img": "https://via.placeholder.com/150/92c952"
-  },
-
-  {
-    "id": "1",
-    "name": "Payok.io",
-    "url": "https://payok.io/",
-    "img": "https://via.placeholder.com/150/92c952"
-  },
-
-  {
-    "id": "1",
-    "name": "Payok.io",
-    "url": "https://payok.io/",
-    "img": "https://via.placeholder.com/150/92c952"
-  }
-]
+  "crystalpay": [
+    {
+      "id": 2,
+      "description": "Комиссия - 0%",
+      "url": "https://source.unsplash.com/random/512x512?sig=1"
+    }
+  ]
+}
