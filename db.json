@@ -2,6 +2,34 @@
   "payok": [
     {
       "id": 1,
+      "name": "name0",
+      "description": "Комиссия - от 2%",
+      "url": "https://source.unsplash.com/random/512x512?sig=1"
+    }
+  ],
+
+  "crystalpay": [
+    {
+      "id": 2,
+      "name": "name1",
+      "description": "Комиссия - 0%",
+      "url": "https://source.unsplash.com/random/512x512?sig=1"
+    }
+  ],
+
+  "cryptobot": [
+    {
+      "id": 3,
+      "name": "name2",
+      "description": "Комиссия - от 2%",
+      "url": "https://source.unsplash.com/random/512x512?sig=1"
+    }
+  ],
+
+  "freekassa": [
+    {
+      "id": 4,
+      "name": "name3",
       "description": "Комиссия - от 2%",
       "url": "https://source.unsplash.com/random/512x512?sig=1"
     }
